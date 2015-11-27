@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Новости</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки</description>
+    <link>http://lenta.ru</link>
+    <image>
+      <url>http://assets.lenta.ru/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>http://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss"/>
+<item>
+  <guid>http://lenta.ru/news/2015/11/27/kiev_krym/</guid>
+  <title>Яценюк выступил за немедленное включение электроснабжения Крыма</title>
+  <link>http://lenta.ru/news/2015/11/27/kiev_krym/</link>
+  <description>
+    <![CDATA[Глава правительства Украины Арсений Яценюк выступил за немедленное включение электроснабжения Крыма. Как заявили в Минэнерго Украины, этот шаг необходимым для того, чтобы разблокировать поставки угля из Донбасса. Ранее в Киеве признали, что стране не хватит на зиму накопленных запасов угля.]]>
+  </description>
+  <pubDate>Fri, 27 Nov 2015 20:13:00 +0300</pubDate>
+  <enclosure url="http://icdn.lenta.ru/images/2015/11/27/20/20151127201623937/pic_56617bc795c9f7696ba6f3a4057d5c0e.jpg" length="34105" type="image/jpeg"/>
+  <category>Бывший СССР</category>
+</item>
+</channel>
+</rss>
