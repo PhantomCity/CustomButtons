@@ -5,17 +5,21 @@
     <title>Обновления кнопок</title>
     <description>Полный репозиторий обновлённых CustomButtons скриптов</description>
     <link>https://github.com/PhantomCity/CustomButtons</link>
-    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/PhantomCity/CustomButtons/Prepare/FullRepository/Update.xml"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/PhantomCity/CustomButtons/Master/FullRepository/Update.xml"/>
 <item>
-  <guid>http://lenta.ru/news/2015/11/27/kiev_krym/</guid>
-  <title>Яценюк выступил за немедленное включение электроснабжения Крыма</title>
-  <link>http://lenta.ru/news/2015/11/27/kiev_krym/</link>
+  <guid>https://github.com/PhantomCity/CustomButtons/commit/e48c03f36ba6dd2e392897365e4417802303296c</guid>
+  <title>TagMark v2</title>
+  <AppUID>{25F7B07A-F853-43F4-814C-19327AAA18BD}</AppUID>
+  <AppVersion>0.1.0</AppVersion>
+  <link>https://raw.githubusercontent.com/PhantomCity/CustomButtons/e48c03f36ba6dd2e392897365e4417802303296c/TagMark2/Code.xml</link>
   <description>
-    <![CDATA[Глава правительства Украины Арсений Яценюк выступил за немедленное включение электроснабжения Крыма. Как заявили в Минэнерго Украины, этот шаг необходимым для того, чтобы разблокировать поставки угля из Донбасса. Ранее в Киеве признали, что стране не хватит на зиму накопленных запасов угля.]]>
+    <![CDATA[<ul><li>Добавление поддержки Whats'New</li></ul>]]>
   </description>
-  <pubDate>Fri, 27 Nov 2015 20:13:00 +0300</pubDate>
-  <enclosure url="http://icdn.lenta.ru/images/2015/11/27/20/20151127201623937/pic_56617bc795c9f7696ba6f3a4057d5c0e.jpg" length="34105" type="image/jpeg"/>
-  <category>Бывший СССР</category>
+  <pubDate>Fri, 27 Nov 2015 21:03:00 +0300</pubDate>
+  <category>Update</category>
+  <category>UpdateType:Minor</category>
+  <category>AppUID:{25F7B07A-F853-43F4-814C-19327AAA18BD}</category>
+  <category>AppVersion:0.1.0</category>
 </item>
 </channel>
 </rss>
