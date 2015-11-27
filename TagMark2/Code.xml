@@ -5,7 +5,6 @@ var as = Components.classes["@mozilla.org/browser/annotation-service;1"].getServ
 
 
 
-
 ////////////////////////////////////////////////////////////
 function BuildUpdateInfoRss(UpdateRssUrl, BtnGUID)
 {//supports whats'new
